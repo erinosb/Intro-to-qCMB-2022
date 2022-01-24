@@ -72,6 +72,16 @@ R is now a large, diverse community of users and developers. Here is a picture f
 
 ❓ Why do we use any programming language in biology? 
 
+  * To increase our speed & efficiency
+  * To increase our scale
+  * To promote reproducibility
+  * To save money
+  * To allow for transparency
+  * Novelty & innovation - things are just so new, we need to make new tools
+  
+  
+  
+
 ❓ Why use R in particular? What are its benefits for the life sciences?
 
 -----
