@@ -5,7 +5,7 @@ January 26, 2022
 ## Lessons for today
 
   * [Functions - the verbs of the R language](#functions---the-verbs-of-the-r-language)
-  * [Import and Export of data](import-and-export-of-data)
+  * [Import and Export of data](#import-and-export-of-data)
   * Packages expand R
   * Plotting - R is beautiful
 
@@ -69,7 +69,7 @@ mean(chromosomes, trim = 0.2)
 <img src="webContent/WebContent_Powerpoint_functionGrammar.jpg" width="600">
 
 
-## Import & Export of Data
+## Import and Export of Data
 
 
 ## Plotting
